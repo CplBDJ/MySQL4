@@ -2,7 +2,7 @@
 Simple to use pymysql wrappers. An understanding of SQL is not required but makes use easier.
 
 ## Compatability
-I tested this in 3.8.1. It uses f-strings so it should be compatible with 3.6+.
+I tested this in 3.8.1. It uses f-strings so it should be compatible with 3.6+. Also uses __enter__ and __exit__ which I believe was first used in 3.5.
 
 ## Useability
 Query classes
