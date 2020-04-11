@@ -10,6 +10,7 @@ Query classes
 Find examples in the MySQL4.py file.
 
 ## Installation
-Currently installing via pip is not supported.
--`pip install pymysql`
-- Download the **MySQL4.py** file, and place it in the same directory as the script.
+Currently installing MySQL4 via pip is not supported.
+
+- Install the pymysql module. `pip install pymysql`
+- **Download** the *MySQL4.py* file, and place it in the same directory as the script.
