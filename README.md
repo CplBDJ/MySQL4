@@ -16,7 +16,7 @@ Find examples in the MySQL4.py file.
 Currently installing MySQL4 via pip is not supported.
 
 - Install the pymysql module. `pip install pymysql`
-- **Download** the *MySQL4.py* file, and place it in the same directory as the script.
+- Place the *MySQL4.py* file in the same directory as the script.
 
 ## Why MySQL4?
 - I had written another wrapper which had got to version 3.
