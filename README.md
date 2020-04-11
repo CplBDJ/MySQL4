@@ -20,5 +20,5 @@ Currently installing MySQL4 via pip is not supported.
 
 ## Why MySQL4?
 - I had written another wrapper which had got to version 3.
-- Version 3 was horribly bloated and wasn't well written.
-- It supported python2, which is at it's end of life. f-strings make formatting text easy.
+- It was horribly bloated and wasn't well written.
+- It supported python2, which is at it's end of life and f-strings make formatting text easy.
