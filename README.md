@@ -1,6 +1,9 @@
 # MySQL4
 Simple to use pymysql wrappers. An understanding of SQL is not required but makes use easier.
 
+## Compatability
+I tested this in 3.8.1. It uses f-strings so it should be compatible with 3.6+.
+
 ## Useability
 Query classes
 - Can be used with the python `with` statement.
@@ -14,3 +17,8 @@ Currently installing MySQL4 via pip is not supported.
 
 - Install the pymysql module. `pip install pymysql`
 - **Download** the *MySQL4.py* file, and place it in the same directory as the script.
+
+Why MySQL4?
+- I had written another wrapper which had got to version 3.
+- Version 3 was horribly bloated and wasn't well written.
+- It supported python2, which is at it's end of life. f-strings make formatting text easy.
