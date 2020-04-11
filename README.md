@@ -2,12 +2,14 @@
 Simple to use pymysql wrappers. An understanding of SQL is not required but makes use easier.
 
 ## Compatability
-I tested this in 3.8.1. It uses f-strings so it should be compatible with 3.6+. Also uses __enter__ and __exit__ which I believe was first used in 3.5.
+- tested this in 3.8.1
+- uses f-strings so it should be compatible with 3.6+
+- uses `__enter__` and `__exit__` which I believe was first used in 3.5
 
 ## Useability
 Query classes
-- Can be used with the python `with` statement.
-- Can be used like a normal class.
+- Can be used with the python `with` statement
+- Can be used like a normal class
 
 ## Examples
 Find examples in the MySQL4.py file.
