@@ -18,7 +18,7 @@ Currently installing MySQL4 via pip is not supported.
 - Install the pymysql module. `pip install pymysql`
 - **Download** the *MySQL4.py* file, and place it in the same directory as the script.
 
-Why MySQL4?
+## Why MySQL4?
 - I had written another wrapper which had got to version 3.
 - Version 3 was horribly bloated and wasn't well written.
 - It supported python2, which is at it's end of life. f-strings make formatting text easy.
